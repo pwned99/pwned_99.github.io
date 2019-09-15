@@ -1,0 +1,8 @@
+Origin: Diak0v Private Repo (Change this)
+Label: Diak0v's Repo (Change this)
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Diak0v's repo

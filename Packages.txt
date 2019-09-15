@@ -1,0 +1,14 @@
+Package: com.diak0v.levinaos
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Diak0v <ghahremanimehrad@gmail.com>
+Depends: anemone, snowboard
+Filename: LevinaOS.deb
+Size: 1146636
+MD5sum: 20836d19ae235795c4f5bf67e195d0fa
+SHA1: 50729bdcfc09ea3674f2591bce58bfd505c7ee7a
+SHA256: 38ebc9a4d49731bee96327c6266ceb582d6344842cb6e221c1c386266ebb625c
+Section: Themes
+Description: A very simple theme that changes your device look to a whole new level!
+Author: Diak0v <ghahremanimehrad@gmail.com>
+Name: LevinaOS
